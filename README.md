@@ -1,4 +1,4 @@
-# Repository to version controle some config files
+# Repository to version control some config files
 
 ## Explanation for each file
 `.hushlogin` disables *last login* message in mac terminal to display `motd` login message anyway, it needs to be executed in `.zshrc` file explicitly
